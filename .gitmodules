@@ -1,0 +1,9 @@
+[submodule "packages/mcrider:azimuth-core"]
+	path = packages/mcrider:azimuth-core
+	url = https://github.com/mcrider/azimuth-core.git
+[submodule "packages/mcrider:azimuth-views-bootstrap"]
+	path = packages/mcrider:azimuth-views-bootstrap
+	url = https://github.com/mcrider/azimuth-views-bootstrap.git
+[submodule "packages/mcrider:azimuth-views-foundation"]
+	path = packages/mcrider:azimuth-views-foundation
+	url = https://github.com/mcrider/azimuth-views-foundation.git
